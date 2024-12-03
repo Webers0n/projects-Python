@@ -2,7 +2,7 @@ situacao = dict()
 dados = list()
 
 while True:
-    o = int(input('CALCULAR NOTAS? [ 1 - INICIAR | 0 - ENCERRAR ]: '))
+    o = int(input('CALCULAR NOTAS [ 1 - INICIAR | 0 - ENCERRAR ]: '))
 
     if o == 1 :
         situacao['nome'] = str(input("Nome: "))
