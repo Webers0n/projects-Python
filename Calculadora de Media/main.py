@@ -17,7 +17,7 @@ while True:
                 i['info'] = "Aprovado"
             else:
                 i['info'] = "Reprovado"
-            aas
+                
             # Imprime as informações do aluno
             print(f"Aluno(a)= {i['nome']} | Nota= {i['nota']} | Status= {i['info']}")
         
